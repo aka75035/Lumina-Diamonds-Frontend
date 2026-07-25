@@ -1,0 +1,7 @@
+/* App.css now minimal — using Tailwind for styling.
+   Keep only minimal helper rules that Tailwind doesn't cover.
+*/
+
+/* ensure images in components scale correctly when not controlled by Tailwind */
+.img-fluid { max-width: 100%; height: auto; }
+
