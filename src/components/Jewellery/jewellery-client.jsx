@@ -16,6 +16,7 @@ export default function JewelleryClient({ initialProducts = [], metalData= [], f
   const [products, setProducts] = useState(initialProducts);
 
   return (
+    
 
     <div className="w-full">
 
