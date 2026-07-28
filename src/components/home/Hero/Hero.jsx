@@ -4,19 +4,19 @@ const slides = [
   {
     image:
       "https://images.unsplash.com/photo-1617038220319-276d3cfab638?q=80&w=2070&auto=format&fit=crop",
-    title: "Timeless Elegance",
+    title: "Sorry for the delay in loading data. Our backend is hosted on Render's Hobby plan and may go to sleep after 15 minutes of inactivity. It can take a few moments to wake up when you visit the site again. Thank you for your patience!",
     subtitle: "Fine Jewellery Crafted For Every Chapter Of Your Story",
   },
   {
     image:
       "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?q=80&w=2070&auto=format&fit=crop",
-    title: "Luxury Redefined",
+    title: "Sorry for the delay in loading data. Our backend is hosted on Render's Hobby plan and may go to sleep after 15 minutes of inactivity. It can take a few moments to wake up when you visit the site again. Thank you for your patience!",
     subtitle: "Discover Handcrafted Diamond Jewellery",
   },
   {
     image:
       "https://images.unsplash.com/photo-1611652022419-a9419f74343d?q=80&w=2070&auto=format&fit=crop",
-    title: "Forever Begins Here",
+    title: "Sorry for the delay in loading data. Our backend is hosted on Render's Hobby plan and may go to sleep after 15 minutes of inactivity. It can take a few moments to wake up when you visit the site again. Thank you for your patience!",
     subtitle: "Celebrate Every Milestone With LUMINA",
   },
 ];
@@ -60,7 +60,7 @@ export default function Hero() {
                   LUMINA DIAMONDS
                 </p>
 
-                <h1 className="text-white text-5xl lg:text-7xl font-serif leading-tight">
+                <h1 className="text-white text-xl lg:text-4xl font-serif leading-tight">
                   {slide.title}
                 </h1>
 
