@@ -82,7 +82,7 @@ export default function DropdownMenu({
               {items.map((item) => (
                 <Link
                   key={item._id}
-                  to={`/Jewellery?category=${item.slug}`}
+                  to={`/product?category=${item.slug}`}
                   className="
                     block
                     text-gray-600

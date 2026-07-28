@@ -75,7 +75,7 @@ export default function Tracking({ order, goBack }) {
                 <div className="p-5 sm:p-10">
 
                     <p className="text-[11px] sm:text-xs font-semibold uppercase tracking-[3px] sm:tracking-[4px] text-[#B88A44]">
-                        MIASHKA
+                        LUMINA
                     </p>
 
                     <h1 className="mt-3 font-serif text-3xl sm:text-4xl text-[#181818]">

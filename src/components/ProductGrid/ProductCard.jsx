@@ -44,7 +44,7 @@ function ProductCard({ product, metalData }) {
   return (
     <div className="relative w-full bg-white shadow-md overflow-hidden hover:shadow-xl transition-all duration-300">
       <a
-        href={`/jewellery/${product?._id}`}
+        href={`/product/${product?._id}`}
         className="block"
       >
         <img

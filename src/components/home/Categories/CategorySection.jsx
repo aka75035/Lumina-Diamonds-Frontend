@@ -43,7 +43,7 @@ export default function CategorySection() {
           {categories.map((category) => (
 
             <a
-              href={`/jewellery?category=${category.slug}`}
+              href={`/product?category=${category.slug}`}
               key={category._id}
               className="group"
             >

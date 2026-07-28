@@ -1,6 +1,6 @@
 // import { useParams, useSearchParams } from "react-router-dom";
 // import ProductClient from "../../../../components/product-page/product-client";
-// import JewelleryClient from "../../../../components/Jewellery/jewellery-client";
+// import JewelleryClient from "../../../../components/product/product-client";
 // import { useEffect, useState } from "react";
 // import { getCategoryById, getProductsByCategory } from "../../../../lib/api";
 // import { handleCategoryFilter, handleCategoryFilterData } from "../../../../lib/category";

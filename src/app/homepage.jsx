@@ -9,7 +9,7 @@ import FeaturedCollections from "../components/home/FeaturedCollections/Featured
 import CategorySection from "../components/home/Categories/CategorySection";
 import LuxuryBanner from "../components/home/LuxuryBanner/LuxuryBanner";
 import SignatureProducts from "../components/home/SignatureProducts/SignatureProducts";
-import WhyChooseMiashka from "../components/home/WhyChooseMiashka/WhyChooseMiashka";
+import WhyChooseLumina from "../components/home/WhyChooseLumina/WhyChooseLumina";
 import CustomerTestimonials from "../components/home/CustomerTestimonials/CustomerTestimonials";
 import InstagramGallery from "../components/home/Instagram/Instagram";
 import Newsletter from "../components/home/Newsletter/Newsletter";
@@ -76,7 +76,7 @@ export default function HomePage() {
     <CategorySection />
     <LuxuryBanner />
     <SignatureProducts />
-    <WhyChooseMiashka />
+    <WhyChooseLumina />
     <CustomerTestimonials />
     <InstagramGallery />
     <Newsletter />

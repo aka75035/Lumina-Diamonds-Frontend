@@ -24,7 +24,7 @@ export default function CustomerTestimonials({
 
           <p className="text-gray-600 text-lg leading-8">
             Every creation tells a story. Here's what our clients say
-            about their MIASHKA experience.
+            about their LUMINA experience.
           </p>
         </div>
 

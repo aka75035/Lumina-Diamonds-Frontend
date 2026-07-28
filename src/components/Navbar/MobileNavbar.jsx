@@ -14,11 +14,7 @@ export default function MobileNavbar({
 
         {/* Logo */}
         <a href="/" className="flex items-center">
-          <img
-            src={logo}
-            alt="MIASHKA Logo"
-            className="h-20 w-auto object-contain"
-          />
+          LUMINA
         </a>
 
         {/* Right Side */}

@@ -44,7 +44,7 @@ export default function FeaturedCollections() {
 
             <a
               key={collection._id}
-              href={`/jewellery?collection=${collection.slug}`}
+              href={`/product?collection=${collection.slug}`}
               className="group overflow-hidden rounded-3xl border border-gray-200 bg-white"
             >
 

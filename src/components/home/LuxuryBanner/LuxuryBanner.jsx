@@ -29,7 +29,7 @@ export default function LuxuryBanner() {
               </p>
 
               <a
-                href="/jewellery?collection=Ishvara"
+                href="/product?collection=Ishvara"
                 className="inline-block mt-10 bg-black text-white px-8 py-4 rounded-full"
               >
                 Explore Collection

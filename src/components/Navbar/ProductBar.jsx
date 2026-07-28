@@ -12,7 +12,7 @@ export default function ProductBar({
           <DropdownMenu
             key={parent._id}
             title={parent.name}
-            titleLink={`/Jewellery?category=${parent.slug}`}
+            titleLink={`/product?category=${parent.slug}`}
             items={childCategories.filter(
               (child) => child?.parentCategory === parent._id
             )}

@@ -83,7 +83,7 @@ export default function Account() {
                         <div>
 
                             <p className="text-[11px] sm:text-xs font-semibold uppercase tracking-[4px] text-[#B88A44]">
-                                MIASHKA
+                                LUMINA
                             </p>
 
                             <h1 className="mt-4 break-words font-serif text-2xl sm:text-3xl lg:text-4xl text-[#181818]">
@@ -102,7 +102,7 @@ export default function Account() {
 
                             <p className="mt-4 max-w-2xl text-sm sm:text-base leading-6 sm:leading-7 text-gray-600">
 
-                                Thank you for choosing MIASHKA.
+                                Thank you for choosing LUMINA.
 
                                 Your account keeps your orders,
 

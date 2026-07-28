@@ -108,7 +108,7 @@ export default function PriceBreakup({ cart = [], user }) {
         currency: data.currency,
         order_id: data.orderId,
 
-        name: "Miashka Diamonds",
+        name: "Lumina Diamonds",
         description: "Secure Payment",
 
         prefill: {

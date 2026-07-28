@@ -32,26 +32,26 @@ const features = [
   },
 ];
 
-export default function WhyChooseMiashka() {
+export default function WhyChooseLumina() {
   return (
     <section className="bg-white py-24">
       <div className="mx-auto max-w-7xl px-6 lg:px-10">
         {/* Heading */}
         <div className="max-w-3xl mx-auto text-center mb-16">
           <p className="uppercase tracking-[0.35em] text-[#C8A75B] text-sm font-medium mb-4">
-            The MIASHKA Difference
+            This just a Full Stack Project 
           </p>
 
           <h2
             className="text-4xl md:text-5xl text-black mb-6"
             style={{ fontFamily: "Cormorant Garamond" }}
           >
-            Luxury Beyond Jewellery
+            I Don't gave effort in Writing
           </h2>
 
           <p className="text-gray-600 text-lg leading-8 font-light">
-            Every MIASHKA creation reflects exceptional craftsmanship,
-            authenticity, and an uncompromising commitment to timeless luxury.
+            Every Lumina creation reflects exceptional craftsmanship,
+            authenticity, and an uncompromising commitment to timeless luxury. -These text are from AI
           </p>
         </div>
 

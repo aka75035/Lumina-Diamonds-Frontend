@@ -59,7 +59,7 @@ export default function Login({
           <div className="flex justify-center mb-6">
             <img
               src={logo}
-              alt="MIASHKA"
+              alt="LUMINA"
               className="h-20 object-contain"
             />
           </div>
@@ -69,7 +69,7 @@ export default function Login({
           </h2>
 
           <p className="text-center text-gray-500 mt-2 mb-8">
-            Sign in to your MIASHKA account
+            Sign in to your LUMINA account
           </p>
 
           {/* Email */}
@@ -173,7 +173,7 @@ export default function Login({
           {/* Signup */}
           <p className="text-center text-gray-500 mt-8">
 
-            New to MIASHKA?
+            New to LUMINA?
 
             <button
               className="text-yellow-700 ml-2 font-semibold hover:underline"

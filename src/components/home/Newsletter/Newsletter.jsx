@@ -27,7 +27,7 @@ export default function Newsletter() {
             <p className="mx-auto max-w-2xl text-gray-600 leading-8 text-lg">
               Receive exclusive access to new collections,
               limited-edition creations, luxury styling inspiration,
-              and private events from MIASHKA Diamonds.
+              and private events from LUMINA Diamonds.
             </p>
 
           </div>
@@ -65,7 +65,7 @@ export default function Newsletter() {
           {/* Bottom Text */}
 
           <p className="mt-6 text-center text-sm text-gray-500">
-            By subscribing, you agree to receive updates from MIASHKA Diamonds.
+            By subscribing, you agree to receive updates from LUMINA Diamonds.
             You may unsubscribe at any time.
           </p>
 

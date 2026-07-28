@@ -18,7 +18,7 @@ export default function Footer() {
               className="text-4xl text-black"
               style={{ fontFamily: "Cormorant Garamond" }}
             >
-              MIASHKA
+              LUMINA
             </h2>
 
             <p className="mt-5 text-gray-600 leading-7">
@@ -28,7 +28,7 @@ export default function Footer() {
 
             <div className="mt-6 flex gap-4 text-lg">
               <a
-                href="https://www.instagram.com/miashka_diamonds/"
+                href="https://www.instagram.com/akash_yadav_7503/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hover:text-[#C8A75B]"
@@ -102,10 +102,10 @@ export default function Footer() {
               <p>
                 Email<br />
                 <a
-                  href="mailto:store.miashka@gmail.com"
+                  href="mailto:akashy9810@gmail.com"
                   className="hover:text-[#C8A75B]"
                 >
-                  store.miashka@gmail.com
+                  akashy9810@gmail.com
                 </a>
               </p>
 
@@ -129,7 +129,7 @@ export default function Footer() {
         </div>
 
         <div className="mt-14 border-t border-gray-200 pt-6 text-center text-sm text-gray-500">
-          © {new Date().getFullYear()} MIASHKA Diamonds. All Rights Reserved.
+          © {new Date().getFullYear()} LUMINA Diamonds. All Rights Reserved.
         </div>
 
       </div>

@@ -59,7 +59,7 @@ export default function MobileMenu({
         openSection={openSection}
         toggleSection={toggleSection}
         sectionKey="jewellery"
-        baseLink="/jewellery/category"
+        baseLink="/product/category"
       />
 
       <MobileAccordion

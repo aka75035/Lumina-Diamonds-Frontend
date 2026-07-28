@@ -1,4 +1,4 @@
-// components/Jewellery/jewellery-client.jsx
+// components/product/product-client.jsx
 
 "use client";
 

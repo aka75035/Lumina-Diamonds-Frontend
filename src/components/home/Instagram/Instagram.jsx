@@ -20,7 +20,7 @@ export default function InstagramGallery({ Gallery = [] }) {
             className="text-2xl transition-smooth md:text-5xl text-black mb-6"
             style={{ fontFamily: "Cormorant Garamond" }}
           >
-            @MIASHKADIAMONDS
+            @LUMINA
           </h2>
 
           <p className="text-gray-600 text-lg leading-8">
@@ -48,7 +48,7 @@ export default function InstagramGallery({ Gallery = [] }) {
 
                 <img
                   src={image.image}
-                  alt={image.alt || "MIASHKA Diamonds"}
+                  alt={image.alt || "LUMINA Diamonds"}
                   loading="lazy"
                   className="h-full w-full object-cover transition-transform duration-300 group-hover:scale-105"
                 />
@@ -66,7 +66,7 @@ export default function InstagramGallery({ Gallery = [] }) {
         <div className="flex justify-center mt-16">
 
           <a
-            href="https://www.instagram.com/miashka_diamonds/"
+            href="https://www.instagram.com/akash_yadav_7503/"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-3 rounded-full border border-[#C8A75B] px-8 py-4 text-black hover:bg-[#C8A75B] hover:text-white transition-colors"

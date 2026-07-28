@@ -18,7 +18,7 @@ export default function Addresses({
             <div className="rounded-3xl border border-[#ECE6DE] bg-[#F8F5F2] p-8">
 
                 <p className="text-xs font-semibold uppercase tracking-[4px] text-[#B88A44]">
-                    MIASHKA
+                    LUMINA
                 </p>
 
                 <h1 className="mt-3 font-serif text-3xl md:text-4xl text-[#181818]">

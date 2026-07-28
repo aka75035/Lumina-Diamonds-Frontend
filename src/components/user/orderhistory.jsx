@@ -66,7 +66,7 @@ export default function OrderHistory({
             <div className="rounded-3xl border border-[#ECE6DE] bg-[#F8F5F2] p-8">
 
                 <p className="text-xs font-semibold uppercase tracking-[4px] text-[#B88A44]">
-                    MIASHKA
+                    LUMINA
                 </p>
 
                 <div className="mt-3 flex flex-col gap-4 md:flex-row md:items-center md:justify-between">
@@ -106,7 +106,7 @@ export default function OrderHistory({
 
                     <p className="mx-auto mt-3 max-w-md text-gray-500">
                         You haven't placed an order yet. Once you purchase a
-                        MIASHKA piece, it will appear here.
+                        LUMINA piece, it will appear here.
                     </p>
 
                 </div>

@@ -17,7 +17,7 @@ const slides = [
     image:
       "https://images.unsplash.com/photo-1611652022419-a9419f74343d?q=80&w=2070&auto=format&fit=crop",
     title: "Forever Begins Here",
-    subtitle: "Celebrate Every Milestone With MIASHKA",
+    subtitle: "Celebrate Every Milestone With LUMINA",
   },
 ];
 
@@ -57,7 +57,7 @@ export default function Hero() {
               <div className="max-w-xl">
 
                 <p className="uppercase tracking-[8px] text-white text-sm mb-6">
-                  MIASHKA DIAMONDS
+                  LUMINA DIAMONDS
                 </p>
 
                 <h1 className="text-white text-5xl lg:text-7xl font-serif leading-tight">
@@ -78,7 +78,7 @@ export default function Hero() {
                   </a>
 
                   <a
-                    href="/jewellery"
+                    href="/product"
                     className="border border-white text-white px-8 py-4 rounded-full"
                   >
                     Explore

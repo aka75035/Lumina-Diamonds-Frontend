@@ -31,7 +31,7 @@ export default function TrackingHeader({ order }) {
                     <div className="min-w-0 flex-1">
 
                         <p className="text-[11px] sm:text-xs font-semibold uppercase tracking-[3px] sm:tracking-[4px] text-[#B88A44]">
-                            MIASHKA
+                            LUMINA
                         </p>
 
                         <h1 className="mt-2 font-serif text-2xl sm:text-3xl lg:text-4xl text-[#181818] break-words">

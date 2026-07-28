@@ -9,15 +9,15 @@ export const categories = [
     dropdown: [
       {
         name: "Diamond Rings",
-        link: "/jewellery/rings/diamond",
+        link: "/product/rings/diamond",
       },
       {
         name: "Gold Rings",
-        link: "/jewellery/rings/gold",
+        link: "/product/rings/gold",
       },
       {
         name: "Engagement Rings",
-        link: "/jewellery/rings/engagement",
+        link: "/product/rings/engagement",
       },
     ],
   },
@@ -32,15 +32,15 @@ export const categories = [
     dropdown: [
       {
         name: "Chokers",
-        link: "/jewellery/necklaces/chokers",
+        link: "/product/necklaces/chokers",
       },
       {
         name: "Layered Necklaces",
-        link: "/jewellery/necklaces/layered",
+        link: "/product/necklaces/layered",
       },
       {
         name: "Pendant Necklaces",
-        link: "/jewellery/necklaces/pendant",
+        link: "/product/necklaces/pendant",
       },
     ],
   },
@@ -55,15 +55,15 @@ export const categories = [
     dropdown: [
       {
         name: "Charm Bracelets",
-        link: "/jewellery/bracelets/charm",
+        link: "/product/bracelets/charm",
       },
       {
         name: "Gold Bracelets",
-        link: "/jewellery/bracelets/gold",
+        link: "/product/bracelets/gold",
       },
       {
         name: "Tennis Bracelets",
-        link: "/jewellery/bracelets/tennis",
+        link: "/product/bracelets/tennis",
       },
     ],
   },
@@ -78,15 +78,15 @@ export const categories = [
     dropdown: [
       {
         name: "Stud Earrings",
-        link: "/jewellery/earrings/studs",
+        link: "/product/earrings/studs",
       },
       {
         name: "Hoop Earrings",
-        link: "/jewellery/earrings/hoops",
+        link: "/product/earrings/hoops",
       },
       {
         name: "Drop Earrings",
-        link: "/jewellery/earrings/drop",
+        link: "/product/earrings/drop",
       },
     ],
   },
@@ -101,15 +101,15 @@ export const categories = [
     dropdown: [
       {
         name: "Heart Pendants",
-        link: "/jewellery/pendants/heart",
+        link: "/product/pendants/heart",
       },
       {
         name: "Religious Pendants",
-        link: "/jewellery/pendants/religious",
+        link: "/product/pendants/religious",
       },
       {
         name: "Custom Pendants",
-        link: "/jewellery/pendants/custom",
+        link: "/product/pendants/custom",
       },
     ],
   },
@@ -124,15 +124,15 @@ export const categories = [
     dropdown: [
       {
         name: "Couple Bands",
-        link: "/jewellery/wedding-bands/couple",
+        link: "/product/wedding-bands/couple",
       },
       {
         name: "Diamond Bands",
-        link: "/jewellery/wedding-bands/diamond",
+        link: "/product/wedding-bands/diamond",
       },
       {
         name: "Platinum Bands",
-        link: "/jewellery/wedding-bands/platinum",
+        link: "/product/wedding-bands/platinum",
       },
     ],
   },
@@ -147,11 +147,11 @@ export const categories = [
     dropdown: [
       {
         name: "Gold Mangalsutra",
-        link: "/jewellery/mangalsutra/gold",
+        link: "/product/mangalsutra/gold",
       },
       {
         name: "Diamond Mangalsutra",
-        link: "/jewellery/mangalsutra/diamond",
+        link: "/product/mangalsutra/diamond",
       },
     ],
   },
@@ -166,11 +166,11 @@ export const categories = [
     dropdown: [
       {
         name: "Silver Anklets",
-        link: "/jewellery/anklets/silver",
+        link: "/product/anklets/silver",
       },
       {
         name: "Charm Anklets",
-        link: "/jewellery/anklets/charm",
+        link: "/product/anklets/charm",
       },
     ],
   },
@@ -185,11 +185,11 @@ export const categories = [
     dropdown: [
       {
         name: "Gold Bangles",
-        link: "/jewellery/bangles/gold",
+        link: "/product/bangles/gold",
       },
       {
         name: "Diamond Bangles",
-        link: "/jewellery/bangles/diamond",
+        link: "/product/bangles/diamond",
       },
     ],
   },
@@ -204,11 +204,11 @@ export const categories = [
     dropdown: [
       {
         name: "Vintage Brooches",
-        link: "/jewellery/brooches/vintage",
+        link: "/product/brooches/vintage",
       },
       {
         name: "Designer Brooches",
-        link: "/jewellery/brooches/designer",
+        link: "/product/brooches/designer",
       },
     ],
   },

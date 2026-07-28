@@ -86,7 +86,7 @@ export default function Signup({
           <div className="flex justify-center mb-6">
             <img
               src="/logo.png"
-              alt="MIASHKA"
+              alt="LUMINA"
               className="h-20 object-contain"
             />
           </div>
@@ -96,7 +96,7 @@ export default function Signup({
           </h2>
 
           <p className="text-center text-gray-500 mt-2 mb-8">
-            Join MIASHKA Diamonds
+            Join LUMINA Diamonds
           </p>
 
           {/* Name */}

@@ -83,7 +83,7 @@ export default function PriceBreakup({pricing, product, }) {
                 {metalPrice && (`Subtotal`) || ` Product Price `}
             </p>
             <h3 className="font-medium">
-                {metalPrice>0 && (`Metal +`)}||{stonePrice>0 && (`Stone + `)}||{makingCharges>0 && (`Making`)}
+                {metalPrice>0 && (`Metal +`)}{stonePrice>0 && (`Stone + `)}{makingCharges>0 && (`Making`)}
             </h3>
         </div>
 

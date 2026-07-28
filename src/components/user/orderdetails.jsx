@@ -77,7 +77,7 @@ export default function OrderDetails({
                         </button>
 
                         <p className="text-[11px] sm:text-xs font-semibold uppercase tracking-[3px] sm:tracking-[4px] text-[#B88A44]">
-                            MIASHKA
+                            LUMINA
                         </p>
 
                         <h1 className="mt-3 break-words font-serif text-2xl sm:text-3xl lg:text-4xl text-[#181818]">
@@ -179,7 +179,7 @@ export default function OrderDetails({
 
                         <a
                             key={item?.product?._id}
-                            href={`/jewellery/${item?.product?._id}`}
+                            href={`/product/${item?.product?._id}`}
                             className="flex flex-col gap-4 sm:gap-6 rounded-2xl border border-[#ECE6DE] p-4 sm:p-5 transition-all duration-300 hover:-translate-y-1 hover:shadow-lg md:flex-row"
                         >
 

@@ -8,7 +8,7 @@ export default function CategoryCard({ category = {} }) {
   return (
     <div>
     <div className="w-full bg-white overflow-hidden rounded-md ">
-      <a href={`/jewellery?category=${category?.slug}`} className="block">
+      <a href={`/product?category=${category?.slug}`} className="block">
       <img src={img} alt={name} className=" w-full aspect-square object-cover transition-all duration-100 hover:opacity-85" />
       </a>
 

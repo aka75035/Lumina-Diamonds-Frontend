@@ -55,7 +55,7 @@ export default function AccountInfo({ user, setUser }) {
 
             <div>
                 <p className="text-xs font-semibold uppercase tracking-[4px] text-[#B88A44]">
-                    MIASHKA
+                    LUMINA
                 </p>
 
                 <h2 className="mt-3 font-serif text-3xl text-[#181818]">
@@ -63,7 +63,7 @@ export default function AccountInfo({ user, setUser }) {
                 </h2>
 
                 <p className="mt-2 text-gray-500">
-                    Manage your personal details associated with your MIASHKA account.
+                    Manage your personal details associated with your LUMINA account.
                 </p>
             </div>
 

@@ -50,7 +50,7 @@ export default function SignatureProducts() {
           {products.map((product) => (
 
             <a
-              href={`/jewellery/${product._id}`}
+              href={`/product/${product._id}`}
               key={product._id}
               className="group"
             >
@@ -123,7 +123,7 @@ export default function SignatureProducts() {
         <div className="text-center mt-16">
 
           <a
-            href="/jewellery"
+            href="/product"
             className="
             inline-block
             bg-black

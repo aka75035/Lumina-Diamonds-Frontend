@@ -8,7 +8,7 @@ export default function CollectionCard({ collection = {} }) {
   return (
 
     <div className=" w-full bg-white  overflow-hidden hover:shadow-xl transition-all duration-300 ">
-      <a href={`/jewellery?collection=${collection?.slug}`} className="block">
+      <a href={`/product?collection=${collection?.slug}`} className="block">
 
       <img src={img} alt={name} className=" w-full aspect-square object-cover " />
 

@@ -13,18 +13,12 @@ export default function DesktopNavbar({
       <nav className="flex items-center justify-between w-full">
 
         <a href="/" className="flex items-center">
-          <img
-            src={logo}
-            alt="MIASHKA Logo"
-            className="h-25 w-auto object-contain"
-          />
+          LUMINA
         </a>
 
         <div className="flex items-center gap-8">
 
           <a href="/collections">COLLECTIONS</a>
-
-          <a href="/jewellery">GIFTING</a>
 
           <a href="/journal">JOURNAL</a>
 
@@ -32,7 +26,7 @@ export default function DesktopNavbar({
 
           <a href="/contact">CONTACT</a>
 
-          <a href="/jewellery">JEWELLERY</a>
+          <a href="/product">PRODUCTS</a>
 
         </div>
 
