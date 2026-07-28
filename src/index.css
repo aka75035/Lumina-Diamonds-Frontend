@@ -1,4 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600;700&family=Inter:wght@400;500;600;700;800&display=swap');
 @import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", sans-serif;
+  --font-serif: "Cormorant Garamond", serif;
+}
 
 
 body {
@@ -7,7 +13,7 @@ body {
 
 @layer base {
   body {
-    @apply font-serif;
+    @apply font-sans;
   }
 }
 

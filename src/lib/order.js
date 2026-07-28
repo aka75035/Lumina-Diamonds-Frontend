@@ -7,12 +7,25 @@ export async function getMyOrders() {
     });
 
     const data = await res.json();
-
     if (!res.ok) {
         throw new Error(data.message || "Failed to fetch orders");
     }
 
     return data.orders;
+}
+
+export async function getOrder(id) {
+    const res = await fetch(`${BASE_URL}/order/${id}`, {
+        credentials: "include",
+    });
+
+    const data = await res.json();    
+
+    if (!res.ok) {
+        throw new Error(data.message || "Failed to fetch tracking");
+    }
+
+    return data;
 }
 
 export async function getOrderTracking(id) {
@@ -21,6 +34,7 @@ export async function getOrderTracking(id) {
     });
 
     const data = await res.json();
+    
 
     if (!res.ok) {
         throw new Error(data.message || "Failed to fetch tracking");

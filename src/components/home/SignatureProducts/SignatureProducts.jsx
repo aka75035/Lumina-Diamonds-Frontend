@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import { getAllProducts } from "../../../lib/api";
+import { getFilteredProducts } from "../../../lib/api";
 
 export default function SignatureProducts() {
   const [products, setProducts] = useState([]);
@@ -7,7 +7,7 @@ export default function SignatureProducts() {
   useEffect(() => {
     async function fetchProducts() {
       try {
-        const data = await getAllProducts();
+        const data = await getFilteredProducts({limit:8});
         console.log(data);
 
         // Show only first 8 products

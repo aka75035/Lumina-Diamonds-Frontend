@@ -207,11 +207,9 @@ export async function getParentChildCategories() {
 
 export async function getProductById(id) {
 
-    const products = await getAllProducts();
-
-    return products.products.find(
-        product => product._id === id
-    );
+    const data = doFetch(`/product/details/${id}`)
+    console.log(data);
+    return data;
 
 }
 

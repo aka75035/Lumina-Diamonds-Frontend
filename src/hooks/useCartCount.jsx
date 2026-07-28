@@ -22,7 +22,7 @@ export default function useCartCount() {
       }
 
       // Wait until user information is available after login.
-      if (!user?._id) {
+      if (!user._id) {
         return;
       }
 

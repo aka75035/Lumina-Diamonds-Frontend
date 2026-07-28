@@ -273,6 +273,7 @@ export async function handleAddToCart(
   loggedIn,
   user
 ) {
+
   const cartItem = {
     product_id: product._id,
 
@@ -342,6 +343,7 @@ export async function handleAddToCart(
       guest: true,
     };
   }
+  else{
 
   /*
   ==========================================
@@ -385,6 +387,8 @@ export async function handleAddToCart(
 
   }
 }
+}
+
 
 /*
 ==========================================

@@ -6,6 +6,7 @@ import useAuth from "../../hooks/useAuth";
 
 function ProductCard({ product, metalData }) {
   const { loggedIn, user } = useAuth();
+  console.log(loggedIn, user);
 
   const [formData] = useState({
     selectedMaterial:
@@ -86,8 +87,6 @@ function ProductCard({ product, metalData }) {
               loggedIn,
               user
             );
-
-            console.log(result);
           }}
         >
           ADD TO CART

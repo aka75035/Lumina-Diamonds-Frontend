@@ -16,6 +16,7 @@ export default function MobileCartItem({
   loggedIn,
   user,
 }) {
+  console.log(user);
   return (
     <div className="lg:hidden flex flex-col text-sm sm:text-base md:text-lg transition-all">
 
